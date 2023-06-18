@@ -1,0 +1,1994 @@
+[
+  {
+    "English": "Afghanistan",
+    "Alpha2": "AF",
+    "Alpha3": "AFG",
+    "Code": "004",
+    "Thai": "อัฟกานิสถาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Åland Islands",
+    "Alpha2": "AX",
+    "Alpha3": "ALA",
+    "Code": 248,
+    "Thai": "หมู่เกาะโอลันด์",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Albania",
+    "Alpha2": "AL",
+    "Alpha3": "ALB",
+    "Code": "008",
+    "Thai": "แอลเบเนีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Algeria",
+    "Alpha2": "DZ",
+    "Alpha3": "DZA",
+    "Code": "012",
+    "Thai": "แอลจีเรีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "American Samoa",
+    "Alpha2": "AS",
+    "Alpha3": "ASM",
+    "Code": "016",
+    "Thai": "อเมริกันซามัว",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Andorra",
+    "Alpha2": "AD",
+    "Alpha3": "AND",
+    "Code": "020",
+    "Thai": "อันดอร์รา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Angola",
+    "Alpha2": "AO",
+    "Alpha3": "AGO",
+    "Code": "024",
+    "Thai": "แองโกลา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Anguilla",
+    "Alpha2": "AI",
+    "Alpha3": "AIA",
+    "Code": 660,
+    "Thai": "แองกวิลลา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Antarctica",
+    "Alpha2": "AQ",
+    "Alpha3": "ATA",
+    "Code": "010",
+    "Thai": "แอนตาร์กติกา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Antigua and Barbuda",
+    "Alpha2": "AG",
+    "Alpha3": "ATG",
+    "Code": "028",
+    "Thai": "แอนทีกาและบาร์บิวดา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Argentina",
+    "Alpha2": "AR",
+    "Alpha3": "ARG",
+    "Code": "032",
+    "Thai": "อาร์เจนตินา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Armenia",
+    "Alpha2": "AM",
+    "Alpha3": "ARM",
+    "Code": "051",
+    "Thai": "อาร์มีเนีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Aruba",
+    "Alpha2": "AW",
+    "Alpha3": "ABW",
+    "Code": 533,
+    "Thai": "อารูบา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Australia",
+    "Alpha2": "AU",
+    "Alpha3": "AUS",
+    "Code": "036",
+    "Thai": "ออสเตรเลีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Austria",
+    "Alpha2": "AT",
+    "Alpha3": "AUT",
+    "Code": "040",
+    "Thai": "ออสเตรีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Azerbaijan",
+    "Alpha2": "AZ",
+    "Alpha3": "AZE",
+    "Code": "031",
+    "Thai": "อาเซอร์ไบจาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Bahamas",
+    "Alpha2": "BS",
+    "Alpha3": "BHS",
+    "Code": "044",
+    "Thai": "บาฮามาส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Bahrain",
+    "Alpha2": "BH",
+    "Alpha3": "BHR",
+    "Code": "048",
+    "Thai": "บาห์เรน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Bangladesh",
+    "Alpha2": "BD",
+    "Alpha3": "BGD",
+    "Code": "050",
+    "Thai": "บังกลาเทศ",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Barbados",
+    "Alpha2": "BB",
+    "Alpha3": "BRB",
+    "Code": "052",
+    "Thai": "บาร์เบโดส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Belarus",
+    "Alpha2": "BY",
+    "Alpha3": "BLR",
+    "Code": 112,
+    "Thai": "เบลารุส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Belgium",
+    "Alpha2": "BE",
+    "Alpha3": "BEL",
+    "Code": "056",
+    "Thai": "เบลเยียม",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Belize",
+    "Alpha2": "BZ",
+    "Alpha3": "BLZ",
+    "Code": "084",
+    "Thai": "เบลีซ",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Benin",
+    "Alpha2": "BJ",
+    "Alpha3": "BEN",
+    "Code": 204,
+    "Thai": "เบนิน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Bermuda",
+    "Alpha2": "BM",
+    "Alpha3": "BMU",
+    "Code": "060",
+    "Thai": "เบอร์มิวดา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Bhutan",
+    "Alpha2": "BT",
+    "Alpha3": "BTN",
+    "Code": "064",
+    "Thai": "ภูฏาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Bolivia (Plurinational State of)",
+    "Alpha2": "BO",
+    "Alpha3": "BOL",
+    "Code": "068",
+    "Thai": "โบลิเวีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Bonaire, Sint Eustatius and Saba",
+    "Alpha2": "BQ",
+    "Alpha3": "BES",
+    "Code": 535,
+    "Thai": "เนเธอร์แลนด์แอนทิลลีส",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Bosnia and Herzegovina",
+    "Alpha2": "BA",
+    "Alpha3": "BIH",
+    "Code": "070",
+    "Thai": "บอสเนียและเฮอร์เซโกวีนา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Botswana",
+    "Alpha2": "BW",
+    "Alpha3": "BWA",
+    "Code": "072",
+    "Thai": "บอตสวานา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Bouvet Island",
+    "Alpha2": "BV",
+    "Alpha3": "BVT",
+    "Code": "074",
+    "Thai": "เกาะบูเว",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Brazil",
+    "Alpha2": "BR",
+    "Alpha3": "BRA",
+    "Code": "076",
+    "Thai": "บราซิล",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "British Indian Ocean Territory",
+    "Alpha2": "IO",
+    "Alpha3": "IOT",
+    "Code": "086",
+    "Thai": "บริติชอินเดียนโอเชียนเทร์ริทอรี",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Brunei Darussalam",
+    "Alpha2": "BN",
+    "Alpha3": "BRN",
+    "Code": "096",
+    "Thai": "บรูไน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Bulgaria",
+    "Alpha2": "BG",
+    "Alpha3": "BGR",
+    "Code": 100,
+    "Thai": "บัลแกเรีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Burkina Faso",
+    "Alpha2": "BF",
+    "Alpha3": "BFA",
+    "Code": 854,
+    "Thai": "บูร์กินาฟาโซ",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Burundi",
+    "Alpha2": "BI",
+    "Alpha3": "BDI",
+    "Code": 108,
+    "Thai": "บุรุนดี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Cabo Verde",
+    "Alpha2": "CV",
+    "Alpha3": "CPV",
+    "Code": 132,
+    "Thai": "กาบูเวร์ดี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Cambodia",
+    "Alpha2": "KH",
+    "Alpha3": "KHM",
+    "Code": 116,
+    "Thai": "กัมพูชา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Cameroon",
+    "Alpha2": "CM",
+    "Alpha3": "CMR",
+    "Code": 120,
+    "Thai": "แคเมอรูน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Canada",
+    "Alpha2": "CA",
+    "Alpha3": "CAN",
+    "Code": 124,
+    "Thai": "แคนาดา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Cayman Islands",
+    "Alpha2": "KY",
+    "Alpha3": "CYM",
+    "Code": 136,
+    "Thai": "หมู่เกาะเคย์แมน",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Central African Republic",
+    "Alpha2": "CF",
+    "Alpha3": "CAF",
+    "Code": 140,
+    "Thai": "สาธารณรัฐแอฟริกากลาง",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Chad",
+    "Alpha2": "TD",
+    "Alpha3": "TCD",
+    "Code": 148,
+    "Thai": "ชาด",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Chile",
+    "Alpha2": "CL",
+    "Alpha3": "CHL",
+    "Code": 152,
+    "Thai": "ชิลี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "China",
+    "Alpha2": "CN",
+    "Alpha3": "CHN",
+    "Code": 156,
+    "Thai": "จีน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Christmas Island",
+    "Alpha2": "CX",
+    "Alpha3": "CXR",
+    "Code": 162,
+    "Thai": "เกาะคริสต์มาส",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Cocos (Keeling) Islands",
+    "Alpha2": "CC",
+    "Alpha3": "CCK",
+    "Code": 166,
+    "Thai": "หมู่เกาะโคโคส",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Colombia",
+    "Alpha2": "CO",
+    "Alpha3": "COL",
+    "Code": 170,
+    "Thai": "โคลอมเบีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Comoros",
+    "Alpha2": "KM",
+    "Alpha3": "COM",
+    "Code": 174,
+    "Thai": "คอโมโรส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Congo",
+    "Alpha2": "CG",
+    "Alpha3": "COG",
+    "Code": 178,
+    "Thai": "สาธารณรัฐคองโก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Congo (Democratic Republic of the)",
+    "Alpha2": "CD",
+    "Alpha3": "COD",
+    "Code": 180,
+    "Thai": "สาธารณรัฐประชาธิปไตยคองโก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Cook Islands",
+    "Alpha2": "CK",
+    "Alpha3": "COK",
+    "Code": 184,
+    "Thai": "หมู่เกาะคุก",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Costa Rica",
+    "Alpha2": "CR",
+    "Alpha3": "CRI",
+    "Code": 188,
+    "Thai": "คอสตาริกา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Côte d'Ivoire",
+    "Alpha2": "CI",
+    "Alpha3": "CIV",
+    "Code": 384,
+    "Thai": "โกตดิวัวร์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Croatia",
+    "Alpha2": "HR",
+    "Alpha3": "HRV",
+    "Code": 191,
+    "Thai": "โครเอเชีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Cuba",
+    "Alpha2": "CU",
+    "Alpha3": "CUB",
+    "Code": 192,
+    "Thai": "คิวบา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Curaçao",
+    "Alpha2": "CW",
+    "Alpha3": "CUW",
+    "Code": 531,
+    "Thai": "กูราเซา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Cyprus",
+    "Alpha2": "CY",
+    "Alpha3": "CYP",
+    "Code": 196,
+    "Thai": "ไซปรัส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Czechia",
+    "Alpha2": "CZ",
+    "Alpha3": "CZE",
+    "Code": 203,
+    "Thai": "เช็กเกีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Denmark",
+    "Alpha2": "DK",
+    "Alpha3": "DNK",
+    "Code": 208,
+    "Thai": "เดนมาร์ก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Djibouti",
+    "Alpha2": "DJ",
+    "Alpha3": "DJI",
+    "Code": 262,
+    "Thai": "จิบูตี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Dominica",
+    "Alpha2": "DM",
+    "Alpha3": "DMA",
+    "Code": 212,
+    "Thai": "ดอมินีกา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Dominican Republic",
+    "Alpha2": "DO",
+    "Alpha3": "DOM",
+    "Code": 214,
+    "Thai": "สาธารณรัฐโดมินิกัน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Ecuador",
+    "Alpha2": "EC",
+    "Alpha3": "ECU",
+    "Code": 218,
+    "Thai": "เอกวาดอร์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Egypt",
+    "Alpha2": "EG",
+    "Alpha3": "EGY",
+    "Code": 818,
+    "Thai": "อียิปต์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "El Salvador",
+    "Alpha2": "SV",
+    "Alpha3": "SLV",
+    "Code": 222,
+    "Thai": "เอลซัลวาดอร์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Equatorial Guinea",
+    "Alpha2": "GQ",
+    "Alpha3": "GNQ",
+    "Code": 226,
+    "Thai": "อิเควทอเรียลกินี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Eritrea",
+    "Alpha2": "ER",
+    "Alpha3": "ERI",
+    "Code": 232,
+    "Thai": "เอริเทรีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Estonia",
+    "Alpha2": "EE",
+    "Alpha3": "EST",
+    "Code": 233,
+    "Thai": "เอสโตเนีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Eswatini",
+    "Alpha2": "SZ",
+    "Alpha3": "SWZ",
+    "Code": 748,
+    "Thai": "เอสวาตีนี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Ethiopia",
+    "Alpha2": "ET",
+    "Alpha3": "ETH",
+    "Code": 231,
+    "Thai": "เอธิโอเปีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Falkland Islands (Malvinas)",
+    "Alpha2": "FK",
+    "Alpha3": "FLK",
+    "Code": 238,
+    "Thai": "หมู่เกาะฟอล์กแลนด์",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Faroe Islands",
+    "Alpha2": "FO",
+    "Alpha3": "FRO",
+    "Code": 234,
+    "Thai": "หมู่เกาะแฟโร",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Fiji",
+    "Alpha2": "FJ",
+    "Alpha3": "FJI",
+    "Code": 242,
+    "Thai": "ฟีจี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Finland",
+    "Alpha2": "FI",
+    "Alpha3": "FIN",
+    "Code": 246,
+    "Thai": "ฟินแลนด์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "France",
+    "Alpha2": "FR",
+    "Alpha3": "FRA",
+    "Code": 250,
+    "Thai": "ฝรั่งเศส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "French Guiana",
+    "Alpha2": "GF",
+    "Alpha3": "GUF",
+    "Code": 254,
+    "Thai": "เฟรนช์เกียนา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "French Polynesia",
+    "Alpha2": "PF",
+    "Alpha3": "PYF",
+    "Code": 258,
+    "Thai": "เฟรนช์พอลินีเชีย",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "French Southern Territories",
+    "Alpha2": "TF",
+    "Alpha3": "ATF",
+    "Code": 260,
+    "Thai": "เฟรนช์เซาเทิร์นและแอนตาร์กติกแลนดส์",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Gabon",
+    "Alpha2": "GA",
+    "Alpha3": "GAB",
+    "Code": 266,
+    "Thai": "กาบอง",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Gambia",
+    "Alpha2": "GM",
+    "Alpha3": "GMB",
+    "Code": 270,
+    "Thai": "แกมเบีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Georgia",
+    "Alpha2": "GE",
+    "Alpha3": "GEO",
+    "Code": 268,
+    "Thai": "จอร์เจีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Germany",
+    "Alpha2": "DE",
+    "Alpha3": "DEU",
+    "Code": 276,
+    "Thai": "เยอรมนี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Ghana",
+    "Alpha2": "GH",
+    "Alpha3": "GHA",
+    "Code": 288,
+    "Thai": "กานา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Gibraltar",
+    "Alpha2": "GI",
+    "Alpha3": "GIB",
+    "Code": 292,
+    "Thai": "ยิบรอลตาร์",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Greece",
+    "Alpha2": "GR",
+    "Alpha3": "GRC",
+    "Code": 300,
+    "Thai": "กรีซ",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Greenland",
+    "Alpha2": "GL",
+    "Alpha3": "GRL",
+    "Code": 304,
+    "Thai": "กรีนแลนด์",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Grenada",
+    "Alpha2": "GD",
+    "Alpha3": "GRD",
+    "Code": 308,
+    "Thai": "กรีเนดา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Guadeloupe",
+    "Alpha2": "GP",
+    "Alpha3": "GLP",
+    "Code": 312,
+    "Thai": "กัวเดอลุป",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Guam",
+    "Alpha2": "GU",
+    "Alpha3": "GUM",
+    "Code": 316,
+    "Thai": "กวม",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Guatemala",
+    "Alpha2": "GT",
+    "Alpha3": "GTM",
+    "Code": 320,
+    "Thai": "กัวเตมาลา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Guernsey",
+    "Alpha2": "GG",
+    "Alpha3": "GGY",
+    "Code": 831,
+    "Thai": "เกิร์นซีย์",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Guinea",
+    "Alpha2": "GN",
+    "Alpha3": "GIN",
+    "Code": 324,
+    "Thai": "กินี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Guinea-Bissau",
+    "Alpha2": "GW",
+    "Alpha3": "GNB",
+    "Code": 624,
+    "Thai": "กินี-บิสเซา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Guyana",
+    "Alpha2": "GY",
+    "Alpha3": "GUY",
+    "Code": 328,
+    "Thai": "กายอานา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Haiti",
+    "Alpha2": "HT",
+    "Alpha3": "HTI",
+    "Code": 332,
+    "Thai": "เฮติ",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Heard Island and McDonald Islands",
+    "Alpha2": "HM",
+    "Alpha3": "HMD",
+    "Code": 334,
+    "Thai": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Holy See",
+    "Alpha2": "VA",
+    "Alpha3": "VAT",
+    "Code": 336,
+    "Thai": "นครรัฐวาติกัน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Honduras",
+    "Alpha2": "HN",
+    "Alpha3": "HND",
+    "Code": 340,
+    "Thai": "ฮอนดูรัส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Hong Kong",
+    "Alpha2": "HK",
+    "Alpha3": "HKG",
+    "Code": 344,
+    "Thai": "ฮ่องกง",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Hungary",
+    "Alpha2": "HU",
+    "Alpha3": "HUN",
+    "Code": 348,
+    "Thai": "ฮังการี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Iceland",
+    "Alpha2": "IS",
+    "Alpha3": "ISL",
+    "Code": 352,
+    "Thai": "ไอซ์แลนด์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "India",
+    "Alpha2": "IN",
+    "Alpha3": "IND",
+    "Code": 356,
+    "Thai": "อินเดีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Indonesia",
+    "Alpha2": "ID",
+    "Alpha3": "IDN",
+    "Code": 360,
+    "Thai": "อินโดนีเซีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Iran (Islamic Republic of)",
+    "Alpha2": "IR",
+    "Alpha3": "IRN",
+    "Code": 364,
+    "Thai": "อิหร่าน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Iraq",
+    "Alpha2": "IQ",
+    "Alpha3": "IRQ",
+    "Code": 368,
+    "Thai": "อิรัก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Ireland",
+    "Alpha2": "IE",
+    "Alpha3": "IRL",
+    "Code": 372,
+    "Thai": "ไอร์แลนด์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Isle of Man",
+    "Alpha2": "IM",
+    "Alpha3": "IMN",
+    "Code": 833,
+    "Thai": "ไอล์ออฟแมน",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Israel",
+    "Alpha2": "IL",
+    "Alpha3": "ISR",
+    "Code": 376,
+    "Thai": "อิสราเอล",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Italy",
+    "Alpha2": "IT",
+    "Alpha3": "ITA",
+    "Code": 380,
+    "Thai": "อิตาลี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Jamaica",
+    "Alpha2": "JM",
+    "Alpha3": "JAM",
+    "Code": 388,
+    "Thai": "จาเมกา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Japan",
+    "Alpha2": "JP",
+    "Alpha3": "JPN",
+    "Code": 392,
+    "Thai": "ญี่ปุ่น",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Jersey",
+    "Alpha2": "JE",
+    "Alpha3": "JEY",
+    "Code": 832,
+    "Thai": "เจอร์ซีย์",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Jordan",
+    "Alpha2": "JO",
+    "Alpha3": "JOR",
+    "Code": 400,
+    "Thai": "จอร์แดน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Kazakhstan",
+    "Alpha2": "KZ",
+    "Alpha3": "KAZ",
+    "Code": 398,
+    "Thai": "คาซัคสถาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Kenya",
+    "Alpha2": "KE",
+    "Alpha3": "KEN",
+    "Code": 404,
+    "Thai": "เคนยา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Kiribati",
+    "Alpha2": "KI",
+    "Alpha3": "KIR",
+    "Code": 296,
+    "Thai": "คิริบาส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Korea (Democratic People's Republic of)",
+    "Alpha2": "KP",
+    "Alpha3": "PRK",
+    "Code": 408,
+    "Thai": "เกาหลีเหนือ",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Korea (Republic of)",
+    "Alpha2": "KR",
+    "Alpha3": "KOR",
+    "Code": 410,
+    "Thai": "เกาหลีใต้",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Kuwait",
+    "Alpha2": "KW",
+    "Alpha3": "KWT",
+    "Code": 414,
+    "Thai": "คูเวต",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Kyrgyzstan",
+    "Alpha2": "KG",
+    "Alpha3": "KGZ",
+    "Code": 417,
+    "Thai": "คีร์กีซสถาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Lao People's Democratic Republic",
+    "Alpha2": "LA",
+    "Alpha3": "LAO",
+    "Code": 418,
+    "Thai": "ลาว",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Latvia",
+    "Alpha2": "LV",
+    "Alpha3": "LVA",
+    "Code": 428,
+    "Thai": "ลัตเวีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Lebanon",
+    "Alpha2": "LB",
+    "Alpha3": "LBN",
+    "Code": 422,
+    "Thai": "เลบานอน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Lesotho",
+    "Alpha2": "LS",
+    "Alpha3": "LSO",
+    "Code": 426,
+    "Thai": "เลโซโท",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Liberia",
+    "Alpha2": "LR",
+    "Alpha3": "LBR",
+    "Code": 430,
+    "Thai": "ไลบีเรีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Libya",
+    "Alpha2": "LY",
+    "Alpha3": "LBY",
+    "Code": 434,
+    "Thai": "ลิเบีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Liechtenstein",
+    "Alpha2": "LI",
+    "Alpha3": "LIE",
+    "Code": 438,
+    "Thai": "ลีชเทินชไตน์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Lithuania",
+    "Alpha2": "LT",
+    "Alpha3": "LTU",
+    "Code": 440,
+    "Thai": "ลิทัวเนีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Luxembourg",
+    "Alpha2": "LU",
+    "Alpha3": "LUX",
+    "Code": 442,
+    "Thai": "ลักเซมเบิร์ก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Macao",
+    "Alpha2": "MO",
+    "Alpha3": "MAC",
+    "Code": 446,
+    "Thai": "มาเก๊า",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Madagascar",
+    "Alpha2": "MG",
+    "Alpha3": "MDG",
+    "Code": 450,
+    "Thai": "มาดากัสการ์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Malawi",
+    "Alpha2": "MW",
+    "Alpha3": "MWI",
+    "Code": 454,
+    "Thai": "มาลาวี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Malaysia",
+    "Alpha2": "MY",
+    "Alpha3": "MYS",
+    "Code": 458,
+    "Thai": "มาเลเซีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Maldives",
+    "Alpha2": "MV",
+    "Alpha3": "MDV",
+    "Code": 462,
+    "Thai": "มัลดีฟส์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Mali",
+    "Alpha2": "ML",
+    "Alpha3": "MLI",
+    "Code": 466,
+    "Thai": "มาลี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Malta",
+    "Alpha2": "MT",
+    "Alpha3": "MLT",
+    "Code": 470,
+    "Thai": "มอลตา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Marshall Islands",
+    "Alpha2": "MH",
+    "Alpha3": "MHL",
+    "Code": 584,
+    "Thai": "หมู่เกาะมาร์แชลล์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Martinique",
+    "Alpha2": "MQ",
+    "Alpha3": "MTQ",
+    "Code": 474,
+    "Thai": "มาร์ตีนิก",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Mauritania",
+    "Alpha2": "MR",
+    "Alpha3": "MRT",
+    "Code": 478,
+    "Thai": "มอริเตเนีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Mauritius",
+    "Alpha2": "MU",
+    "Alpha3": "MUS",
+    "Code": 480,
+    "Thai": "มอริเชียส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Mayotte",
+    "Alpha2": "YT",
+    "Alpha3": "MYT",
+    "Code": 175,
+    "Thai": "มายอต",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Mexico",
+    "Alpha2": "MX",
+    "Alpha3": "MEX",
+    "Code": 484,
+    "Thai": "เม็กซิโก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Micronesia (Federated States of)",
+    "Alpha2": "FM",
+    "Alpha3": "FSM",
+    "Code": 583,
+    "Thai": "ไมโครนีเชีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Moldova (Republic of)",
+    "Alpha2": "MD",
+    "Alpha3": "MDA",
+    "Code": 498,
+    "Thai": "มอลโดวา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Monaco",
+    "Alpha2": "MC",
+    "Alpha3": "MCO",
+    "Code": 492,
+    "Thai": "โมนาโก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Mongolia",
+    "Alpha2": "MN",
+    "Alpha3": "MNG",
+    "Code": 496,
+    "Thai": "มองโกเลีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Montenegro",
+    "Alpha2": "ME",
+    "Alpha3": "MNE",
+    "Code": 499,
+    "Thai": "มอนเตเนโกร",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Montserrat",
+    "Alpha2": "MS",
+    "Alpha3": "MSR",
+    "Code": 500,
+    "Thai": "มอนต์เซอร์รัต",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Morocco",
+    "Alpha2": "MA",
+    "Alpha3": "MAR",
+    "Code": 504,
+    "Thai": "โมร็อกโก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Mozambique",
+    "Alpha2": "MZ",
+    "Alpha3": "MOZ",
+    "Code": 508,
+    "Thai": "โมซัมบิก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Myanmar",
+    "Alpha2": "MM",
+    "Alpha3": "MMR",
+    "Code": 104,
+    "Thai": "พม่า",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Namibia",
+    "Alpha2": "NA",
+    "Alpha3": "NAM",
+    "Code": 516,
+    "Thai": "นามิเบีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Nauru",
+    "Alpha2": "NR",
+    "Alpha3": "NRU",
+    "Code": 520,
+    "Thai": "นาอูรู",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Nepal",
+    "Alpha2": "NP",
+    "Alpha3": "NPL",
+    "Code": 524,
+    "Thai": "เนปาล",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Netherlands",
+    "Alpha2": "NL",
+    "Alpha3": "NLD",
+    "Code": 528,
+    "Thai": "เนเธอร์แลนด์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "New Caledonia",
+    "Alpha2": "NC",
+    "Alpha3": "NCL",
+    "Code": 540,
+    "Thai": "นิวแคลิโดเนีย",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "New Zealand",
+    "Alpha2": "NZ",
+    "Alpha3": "NZL",
+    "Code": 554,
+    "Thai": "นิวซีแลนด์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Nicaragua",
+    "Alpha2": "NI",
+    "Alpha3": "NIC",
+    "Code": 558,
+    "Thai": "นิการากัว",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Niger",
+    "Alpha2": "NE",
+    "Alpha3": "NER",
+    "Code": 562,
+    "Thai": "ไนเจอร์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Nigeria",
+    "Alpha2": "NG",
+    "Alpha3": "NGA",
+    "Code": 566,
+    "Thai": "ไนจีเรีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Niue",
+    "Alpha2": "NU",
+    "Alpha3": "NIU",
+    "Code": 570,
+    "Thai": "นีวเว",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Norfolk Island",
+    "Alpha2": "NF",
+    "Alpha3": "NFK",
+    "Code": 574,
+    "Thai": "เกาะนอร์ฟอล์ก",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "North Macedonia",
+    "Alpha2": "MK",
+    "Alpha3": "MKD",
+    "Code": 807,
+    "Thai": "มาซิโดเนียเหนือ",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Northern Mariana Islands",
+    "Alpha2": "MP",
+    "Alpha3": "MNP",
+    "Code": 580,
+    "Thai": "หมู่เกาะนอร์เทิร์นมาเรียนา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Norway",
+    "Alpha2": "NO",
+    "Alpha3": "NOR",
+    "Code": 578,
+    "Thai": "นอร์เวย์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Oman",
+    "Alpha2": "OM",
+    "Alpha3": "OMN",
+    "Code": 512,
+    "Thai": "โอมาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Pakistan",
+    "Alpha2": "PK",
+    "Alpha3": "PAK",
+    "Code": 586,
+    "Thai": "ปากีสถาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Palau",
+    "Alpha2": "PW",
+    "Alpha3": "PLW",
+    "Code": 585,
+    "Thai": "ปาเลา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Palestine, State of",
+    "Alpha2": "PS",
+    "Alpha3": "PSE",
+    "Code": 275,
+    "Thai": "ปาเลสไตน์",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Panama",
+    "Alpha2": "PA",
+    "Alpha3": "PAN",
+    "Code": 591,
+    "Thai": "ปานามา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Papua New Guinea",
+    "Alpha2": "PG",
+    "Alpha3": "PNG",
+    "Code": 598,
+    "Thai": "ปาปัวนิวกินี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Paraguay",
+    "Alpha2": "PY",
+    "Alpha3": "PRY",
+    "Code": 600,
+    "Thai": "ปารากวัย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Peru",
+    "Alpha2": "PE",
+    "Alpha3": "PER",
+    "Code": 604,
+    "Thai": "เปรู",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Philippines",
+    "Alpha2": "PH",
+    "Alpha3": "PHL",
+    "Code": 608,
+    "Thai": "ฟิลิปปินส์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Pitcairn",
+    "Alpha2": "PN",
+    "Alpha3": "PCN",
+    "Code": 612,
+    "Thai": "หมู่เกาะพิตแคร์น",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Poland",
+    "Alpha2": "PL",
+    "Alpha3": "POL",
+    "Code": 616,
+    "Thai": "โปแลนด์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Portugal",
+    "Alpha2": "PT",
+    "Alpha3": "PRT",
+    "Code": 620,
+    "Thai": "โปรตุเกส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Puerto Rico",
+    "Alpha2": "PR",
+    "Alpha3": "PRI",
+    "Code": 630,
+    "Thai": "ปวยร์โตรีโก",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Qatar",
+    "Alpha2": "QA",
+    "Alpha3": "QAT",
+    "Code": 634,
+    "Thai": "กาตาร์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Réunion",
+    "Alpha2": "RE",
+    "Alpha3": "REU",
+    "Code": 638,
+    "Thai": "เรอูว์นียง",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Romania",
+    "Alpha2": "RO",
+    "Alpha3": "ROU",
+    "Code": 642,
+    "Thai": "โรมาเนีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Russian Federation",
+    "Alpha2": "RU",
+    "Alpha3": "RUS",
+    "Code": 643,
+    "Thai": "รัสเซีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Rwanda",
+    "Alpha2": "RW",
+    "Alpha3": "RWA",
+    "Code": 646,
+    "Thai": "รวันดา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Saint Barthélemy",
+    "Alpha2": "BL",
+    "Alpha3": "BLM",
+    "Code": 652,
+    "Thai": "แซ็ง–บาร์เตเลมี",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Saint Helena, Ascension and Tristan da Cunha",
+    "Alpha2": "SH",
+    "Alpha3": "SHN",
+    "Code": 654,
+    "Thai": "เซนต์เฮเลนา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Saint Kitts and Nevis",
+    "Alpha2": "KN",
+    "Alpha3": "KNA",
+    "Code": 659,
+    "Thai": "เซนต์คิตส์และเนวิส",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Saint Lucia",
+    "Alpha2": "LC",
+    "Alpha3": "LCA",
+    "Code": 662,
+    "Thai": "เซนต์ลูเชีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Saint Martin (French part)",
+    "Alpha2": "MF",
+    "Alpha3": "MAF",
+    "Code": 663,
+    "Thai": "เซนต์มาร์ติน",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Saint Pierre and Miquelon",
+    "Alpha2": "PM",
+    "Alpha3": "SPM",
+    "Code": 666,
+    "Thai": "แซงปีแยร์และมีเกอลง",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Saint Vincent and the Grenadines",
+    "Alpha2": "VC",
+    "Alpha3": "VCT",
+    "Code": 670,
+    "Thai": "เซนต์วินเซนต์และเกรนาดีนส์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Samoa",
+    "Alpha2": "WS",
+    "Alpha3": "WSM",
+    "Code": 882,
+    "Thai": "ซามัว",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "San Marino",
+    "Alpha2": "SM",
+    "Alpha3": "SMR",
+    "Code": 674,
+    "Thai": "ซานมารีโน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Sao Tome and Principe",
+    "Alpha2": "ST",
+    "Alpha3": "STP",
+    "Code": 678,
+    "Thai": "เซาตูแมอีปริงซีป",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Saudi Arabia",
+    "Alpha2": "SA",
+    "Alpha3": "SAU",
+    "Code": 682,
+    "Thai": "ซาอุดีอาระเบีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Senegal",
+    "Alpha2": "SN",
+    "Alpha3": "SEN",
+    "Code": 686,
+    "Thai": "เซเนกัล",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Serbia",
+    "Alpha2": "RS",
+    "Alpha3": "SRB",
+    "Code": 688,
+    "Thai": "เซอร์เบีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Seychelles",
+    "Alpha2": "SC",
+    "Alpha3": "SYC",
+    "Code": 690,
+    "Thai": "เซเชลส์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Sierra Leone",
+    "Alpha2": "SL",
+    "Alpha3": "SLE",
+    "Code": 694,
+    "Thai": "เซียร์ราลีโอน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Singapore",
+    "Alpha2": "SG",
+    "Alpha3": "SGP",
+    "Code": 702,
+    "Thai": "สิงคโปร์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Sint Maarten (Dutch part)",
+    "Alpha2": "SX",
+    "Alpha3": "SXM",
+    "Code": 534,
+    "Thai": "ซินต์มาร์เติน",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Slovakia",
+    "Alpha2": "SK",
+    "Alpha3": "SVK",
+    "Code": 703,
+    "Thai": "สโลวาเกีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Slovenia",
+    "Alpha2": "SI",
+    "Alpha3": "SVN",
+    "Code": 705,
+    "Thai": "สโลวีเนีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Solomon Islands",
+    "Alpha2": "SB",
+    "Alpha3": "SLB",
+    "Code": "090",
+    "Thai": "หมู่เกาะโซโลมอน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Somalia",
+    "Alpha2": "SO",
+    "Alpha3": "SOM",
+    "Code": 706,
+    "Thai": "โซมาเลีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "South Africa",
+    "Alpha2": "ZA",
+    "Alpha3": "ZAF",
+    "Code": 710,
+    "Thai": "แอฟริกาใต้",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "South Georgia and the South Sandwich Islands",
+    "Alpha2": "GS",
+    "Alpha3": "SGS",
+    "Code": 239,
+    "Thai": "เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "South Sudan",
+    "Alpha2": "SS",
+    "Alpha3": "SSD",
+    "Code": 728,
+    "Thai": "ซูดานใต้",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Spain",
+    "Alpha2": "ES",
+    "Alpha3": "ESP",
+    "Code": 724,
+    "Thai": "สเปน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Sri Lanka",
+    "Alpha2": "LK",
+    "Alpha3": "LKA",
+    "Code": 144,
+    "Thai": "ศรีลังกา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Sudan",
+    "Alpha2": "SD",
+    "Alpha3": "SDN",
+    "Code": 729,
+    "Thai": "ซูดาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Suriname",
+    "Alpha2": "SR",
+    "Alpha3": "SUR",
+    "Code": 740,
+    "Thai": "ซูรินาม",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Svalbard and Jan Mayen",
+    "Alpha2": "SJ",
+    "Alpha3": "SJM",
+    "Code": 744,
+    "Thai": "‎สฟาลบาร์และยานไมเอน",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Sweden",
+    "Alpha2": "SE",
+    "Alpha3": "SWE",
+    "Code": 752,
+    "Thai": "สวีเดน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Switzerland",
+    "Alpha2": "CH",
+    "Alpha3": "CHE",
+    "Code": 756,
+    "Thai": "สวิตเซอร์แลนด์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Syrian Arab Republic",
+    "Alpha2": "SY",
+    "Alpha3": "SYR",
+    "Code": 760,
+    "Thai": "ซีเรีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Taiwan, Province of China",
+    "Alpha2": "TW",
+    "Alpha3": "TWN",
+    "Code": 158,
+    "Thai": "ไต้หวัน",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Tajikistan",
+    "Alpha2": "TJ",
+    "Alpha3": "TJK",
+    "Code": 762,
+    "Thai": "ทาจิกิสถาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Tanzania, United Republic of",
+    "Alpha2": "TZ",
+    "Alpha3": "TZA",
+    "Code": 834,
+    "Thai": "แทนซาเนีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Thailand",
+    "Alpha2": "TH",
+    "Alpha3": "THA",
+    "Code": 764,
+    "Thai": "ไทย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Timor-Leste",
+    "Alpha2": "TL",
+    "Alpha3": "TLS",
+    "Code": 626,
+    "Thai": "ติมอร์-เลสเต",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Togo",
+    "Alpha2": "TG",
+    "Alpha3": "TGO",
+    "Code": 768,
+    "Thai": "โตโก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Tokelau",
+    "Alpha2": "TK",
+    "Alpha3": "TKL",
+    "Code": 772,
+    "Thai": "โตเกเลา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Tonga",
+    "Alpha2": "TO",
+    "Alpha3": "TON",
+    "Code": 776,
+    "Thai": "ตองงา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Trinidad and Tobago",
+    "Alpha2": "TT",
+    "Alpha3": "TTO",
+    "Code": 780,
+    "Thai": "ตรินิแดดและโตเบโก",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Tunisia",
+    "Alpha2": "TN",
+    "Alpha3": "TUN",
+    "Code": 788,
+    "Thai": "ตูนิเซีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Turkey",
+    "Alpha2": "TR",
+    "Alpha3": "TUR",
+    "Code": 792,
+    "Thai": "ตุรกี",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Turkmenistan",
+    "Alpha2": "TM",
+    "Alpha3": "TKM",
+    "Code": 795,
+    "Thai": "เติร์กเมนิสถาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Turks and Caicos Islands",
+    "Alpha2": "TC",
+    "Alpha3": "TCA",
+    "Code": 796,
+    "Thai": "หมู่เกาะเติกส์และเคคอส",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Tuvalu",
+    "Alpha2": "TV",
+    "Alpha3": "TUV",
+    "Code": 798,
+    "Thai": "ตูวาลู",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Uganda",
+    "Alpha2": "UG",
+    "Alpha3": "UGA",
+    "Code": 800,
+    "Thai": "ยูกันดา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Ukraine",
+    "Alpha2": "UA",
+    "Alpha3": "UKR",
+    "Code": 804,
+    "Thai": "ยูเครน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "United Arab Emirates",
+    "Alpha2": "AE",
+    "Alpha3": "ARE",
+    "Code": 784,
+    "Thai": "สหรัฐอาหรับเอมิเรตส์",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "United Kingdom of Great Britain and Northern Ireland",
+    "Alpha2": "GB",
+    "Alpha3": "GBR",
+    "Code": 826,
+    "Thai": "สหราชอาณาจักร",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "United States of America",
+    "Alpha2": "US",
+    "Alpha3": "USA",
+    "Code": 840,
+    "Thai": "สหรัฐ",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "United States Minor Outlying Islands",
+    "Alpha2": "UM",
+    "Alpha3": "UMI",
+    "Code": 581,
+    "Thai": "เกาะเล็กรอบนอกของสหรัฐอเมริกา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Uruguay",
+    "Alpha2": "UY",
+    "Alpha3": "URY",
+    "Code": 858,
+    "Thai": "อุรุกวัย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Uzbekistan",
+    "Alpha2": "UZ",
+    "Alpha3": "UZB",
+    "Code": 860,
+    "Thai": "อุซเบกิสถาน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Vanuatu",
+    "Alpha2": "VU",
+    "Alpha3": "VUT",
+    "Code": 548,
+    "Thai": "วานูวาตู",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Venezuela (Bolivarian Republic of)",
+    "Alpha2": "VE",
+    "Alpha3": "VEN",
+    "Code": 862,
+    "Thai": "เวเนซุเอลา",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Viet Nam",
+    "Alpha2": "VN",
+    "Alpha3": "VNM",
+    "Code": 704,
+    "Thai": "เวียดนาม",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Virgin Islands (British)",
+    "Alpha2": "VG",
+    "Alpha3": "VGB",
+    "Code": "092",
+    "Thai": "หมู่เกาะบริติชเวอร์จิน",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Virgin Islands (U.S.)",
+    "Alpha2": "VI",
+    "Alpha3": "VIR",
+    "Code": 850,
+    "Thai": "หมู่เกาะเวอร์จินของสหรัฐ",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Wallis and Futuna",
+    "Alpha2": "WF",
+    "Alpha3": "WLF",
+    "Code": 876,
+    "Thai": "วอลิสและฟูตูนา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Western Sahara",
+    "Alpha2": "EH",
+    "Alpha3": "ESH",
+    "Code": 732,
+    "Thai": "เวสเทิร์นสะฮารา",
+    "Independent": "FALSE"
+  },
+  {
+    "English": "Yemen",
+    "Alpha2": "YE",
+    "Alpha3": "YEM",
+    "Code": 887,
+    "Thai": "เยเมน",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Zambia",
+    "Alpha2": "ZM",
+    "Alpha3": "ZMB",
+    "Code": 894,
+    "Thai": "แซมเบีย",
+    "Independent": "TRUE"
+  },
+  {
+    "English": "Zimbabwe",
+    "Alpha2": "ZW",
+    "Alpha3": "ZWE",
+    "Code": 716,
+    "Thai": "ซิมบับเว",
+    "Independent": "TRUE"
+  }
+]

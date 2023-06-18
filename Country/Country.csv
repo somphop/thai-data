@@ -1,0 +1,250 @@
+﻿English,Alpha2,Alpha3,Code,Thai,Independent
+Afghanistan,AF,AFG,004, อัฟกานิสถาน,TRUE
+Åland Islands,AX,ALA,248, หมู่เกาะโอลันด์,FALSE
+Albania,AL,ALB,008, แอลเบเนีย,TRUE
+Algeria,DZ,DZA,012, แอลจีเรีย,TRUE
+American Samoa,AS,ASM,016, อเมริกันซามัว,FALSE
+Andorra,AD,AND,020, อันดอร์รา,TRUE
+Angola,AO,AGO,024, แองโกลา,TRUE
+Anguilla,AI,AIA,660, แองกวิลลา,FALSE
+Antarctica,AQ,ATA,010, แอนตาร์กติกา,FALSE
+Antigua and Barbuda,AG,ATG,028, แอนทีกาและบาร์บิวดา,TRUE
+Argentina,AR,ARG,032, อาร์เจนตินา,TRUE
+Armenia,AM,ARM,051, อาร์มีเนีย,TRUE
+Aruba,AW,ABW,533, อารูบา,FALSE
+Australia,AU,AUS,036, ออสเตรเลีย,TRUE
+Austria,AT,AUT,040, ออสเตรีย,TRUE
+Azerbaijan,AZ,AZE,031, อาเซอร์ไบจาน,TRUE
+Bahamas,BS,BHS,044, บาฮามาส,TRUE
+Bahrain,BH,BHR,048, บาห์เรน,TRUE
+Bangladesh,BD,BGD,050, บังกลาเทศ,TRUE
+Barbados,BB,BRB,052, บาร์เบโดส,TRUE
+Belarus,BY,BLR,112, เบลารุส,TRUE
+Belgium,BE,BEL,056, เบลเยียม,TRUE
+Belize,BZ,BLZ,084, เบลีซ,TRUE
+Benin,BJ,BEN,204, เบนิน,TRUE
+Bermuda,BM,BMU,060, เบอร์มิวดา,FALSE
+Bhutan,BT,BTN,064, ภูฏาน,TRUE
+Bolivia (Plurinational State of),BO,BOL,068, โบลิเวีย,TRUE
+"Bonaire, Sint Eustatius and Saba",BQ,BES,535, เนเธอร์แลนด์แอนทิลลีส,FALSE
+Bosnia and Herzegovina,BA,BIH,070, บอสเนียและเฮอร์เซโกวีนา,TRUE
+Botswana,BW,BWA,072, บอตสวานา,TRUE
+Bouvet Island,BV,BVT,074, เกาะบูเว,FALSE
+Brazil,BR,BRA,076, บราซิล,TRUE
+British Indian Ocean Territory,IO,IOT,086, บริติชอินเดียนโอเชียนเทร์ริทอรี,FALSE
+Brunei Darussalam,BN,BRN,096, บรูไน,TRUE
+Bulgaria,BG,BGR,100, บัลแกเรีย,TRUE
+Burkina Faso,BF,BFA,854, บูร์กินาฟาโซ,TRUE
+Burundi,BI,BDI,108, บุรุนดี,TRUE
+Cabo Verde,CV,CPV,132, กาบูเวร์ดี,TRUE
+Cambodia,KH,KHM,116, กัมพูชา,TRUE
+Cameroon,CM,CMR,120, แคเมอรูน,TRUE
+Canada,CA,CAN,124, แคนาดา,TRUE
+Cayman Islands,KY,CYM,136, หมู่เกาะเคย์แมน,FALSE
+Central African Republic,CF,CAF,140, สาธารณรัฐแอฟริกากลาง,TRUE
+Chad,TD,TCD,148, ชาด,TRUE
+Chile,CL,CHL,152, ชิลี,TRUE
+China,CN,CHN,156, จีน,TRUE
+Christmas Island,CX,CXR,162, เกาะคริสต์มาส,FALSE
+Cocos (Keeling) Islands,CC,CCK,166, หมู่เกาะโคโคส,FALSE
+Colombia,CO,COL,170, โคลอมเบีย,TRUE
+Comoros,KM,COM,174, คอโมโรส,TRUE
+Congo,CG,COG,178, สาธารณรัฐคองโก,TRUE
+Congo (Democratic Republic of the),CD,COD,180, สาธารณรัฐประชาธิปไตยคองโก,TRUE
+Cook Islands,CK,COK,184, หมู่เกาะคุก,FALSE
+Costa Rica,CR,CRI,188, คอสตาริกา,TRUE
+Côte d'Ivoire,CI,CIV,384, โกตดิวัวร์,TRUE
+Croatia,HR,HRV,191, โครเอเชีย,TRUE
+Cuba,CU,CUB,192, คิวบา,TRUE
+Curaçao,CW,CUW,531, กูราเซา,FALSE
+Cyprus,CY,CYP,196, ไซปรัส,TRUE
+Czechia,CZ,CZE,203, เช็กเกีย,TRUE
+Denmark,DK,DNK,208, เดนมาร์ก,TRUE
+Djibouti,DJ,DJI,262, จิบูตี,TRUE
+Dominica,DM,DMA,212, ดอมินีกา,TRUE
+Dominican Republic,DO,DOM,214, สาธารณรัฐโดมินิกัน,TRUE
+Ecuador,EC,ECU,218, เอกวาดอร์,TRUE
+Egypt,EG,EGY,818, อียิปต์,TRUE
+El Salvador,SV,SLV,222, เอลซัลวาดอร์,TRUE
+Equatorial Guinea,GQ,GNQ,226, อิเควทอเรียลกินี,TRUE
+Eritrea,ER,ERI,232, เอริเทรีย,TRUE
+Estonia,EE,EST,233, เอสโตเนีย,TRUE
+Eswatini,SZ,SWZ,748, เอสวาตีนี,TRUE
+Ethiopia,ET,ETH,231, เอธิโอเปีย,TRUE
+Falkland Islands (Malvinas),FK,FLK,238, หมู่เกาะฟอล์กแลนด์,FALSE
+Faroe Islands,FO,FRO,234, หมู่เกาะแฟโร,FALSE
+Fiji,FJ,FJI,242, ฟีจี,TRUE
+Finland,FI,FIN,246, ฟินแลนด์,TRUE
+France,FR,FRA,250, ฝรั่งเศส,TRUE
+French Guiana,GF,GUF,254, เฟรนช์เกียนา,FALSE
+French Polynesia,PF,PYF,258, เฟรนช์พอลินีเชีย,FALSE
+French Southern Territories,TF,ATF,260, เฟรนช์เซาเทิร์นและแอนตาร์กติกแลนดส์,FALSE
+Gabon,GA,GAB,266, กาบอง,TRUE
+Gambia,GM,GMB,270, แกมเบีย,TRUE
+Georgia,GE,GEO,268, จอร์เจีย,TRUE
+Germany,DE,DEU,276, เยอรมนี,TRUE
+Ghana,GH,GHA,288, กานา,TRUE
+Gibraltar,GI,GIB,292, ยิบรอลตาร์,FALSE
+Greece,GR,GRC,300, กรีซ,TRUE
+Greenland,GL,GRL,304, กรีนแลนด์,FALSE
+Grenada,GD,GRD,308, กรีเนดา,TRUE
+Guadeloupe,GP,GLP,312, กัวเดอลุป,FALSE
+Guam,GU,GUM,316, กวม,FALSE
+Guatemala,GT,GTM,320, กัวเตมาลา,TRUE
+Guernsey,GG,GGY,831, เกิร์นซีย์,FALSE
+Guinea,GN,GIN,324, กินี,TRUE
+Guinea-Bissau,GW,GNB,624, กินี-บิสเซา,TRUE
+Guyana,GY,GUY,328, กายอานา,TRUE
+Haiti,HT,HTI,332, เฮติ,TRUE
+Heard Island and McDonald Islands,HM,HMD,334, เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์,FALSE
+Holy See,VA,VAT,336, นครรัฐวาติกัน,TRUE
+Honduras,HN,HND,340, ฮอนดูรัส,TRUE
+Hong Kong,HK,HKG,344, ฮ่องกง,FALSE
+Hungary,HU,HUN,348, ฮังการี,TRUE
+Iceland,IS,ISL,352, ไอซ์แลนด์,TRUE
+India,IN,IND,356, อินเดีย,TRUE
+Indonesia,ID,IDN,360, อินโดนีเซีย,TRUE
+Iran (Islamic Republic of),IR,IRN,364, อิหร่าน,TRUE
+Iraq,IQ,IRQ,368, อิรัก,TRUE
+Ireland,IE,IRL,372, ไอร์แลนด์,TRUE
+Isle of Man,IM,IMN,833, ไอล์ออฟแมน,FALSE
+Israel,IL,ISR,376, อิสราเอล,TRUE
+Italy,IT,ITA,380, อิตาลี,TRUE
+Jamaica,JM,JAM,388, จาเมกา,TRUE
+Japan,JP,JPN,392, ญี่ปุ่น,TRUE
+Jersey,JE,JEY,832, เจอร์ซีย์,FALSE
+Jordan,JO,JOR,400, จอร์แดน,TRUE
+Kazakhstan,KZ,KAZ,398, คาซัคสถาน,TRUE
+Kenya,KE,KEN,404, เคนยา,TRUE
+Kiribati,KI,KIR,296, คิริบาส,TRUE
+Korea (Democratic People's Republic of),KP,PRK,408, เกาหลีเหนือ,TRUE
+Korea (Republic of),KR,KOR,410, เกาหลีใต้,TRUE
+Kuwait,KW,KWT,414, คูเวต,TRUE
+Kyrgyzstan,KG,KGZ,417, คีร์กีซสถาน,TRUE
+Lao People's Democratic Republic,LA,LAO,418, ลาว,TRUE
+Latvia,LV,LVA,428, ลัตเวีย,TRUE
+Lebanon,LB,LBN,422, เลบานอน,TRUE
+Lesotho,LS,LSO,426, เลโซโท,TRUE
+Liberia,LR,LBR,430, ไลบีเรีย,TRUE
+Libya,LY,LBY,434, ลิเบีย,TRUE
+Liechtenstein,LI,LIE,438, ลีชเทินชไตน์,TRUE
+Lithuania,LT,LTU,440, ลิทัวเนีย,TRUE
+Luxembourg,LU,LUX,442, ลักเซมเบิร์ก,TRUE
+Macao,MO,MAC,446, มาเก๊า,FALSE
+Madagascar,MG,MDG,450, มาดากัสการ์,TRUE
+Malawi,MW,MWI,454, มาลาวี,TRUE
+Malaysia,MY,MYS,458, มาเลเซีย,TRUE
+Maldives,MV,MDV,462, มัลดีฟส์,TRUE
+Mali,ML,MLI,466, มาลี,TRUE
+Malta,MT,MLT,470, มอลตา,TRUE
+Marshall Islands,MH,MHL,584, หมู่เกาะมาร์แชลล์,TRUE
+Martinique,MQ,MTQ,474, มาร์ตีนิก,FALSE
+Mauritania,MR,MRT,478, มอริเตเนีย,TRUE
+Mauritius,MU,MUS,480, มอริเชียส,TRUE
+Mayotte,YT,MYT,175, มายอต,FALSE
+Mexico,MX,MEX,484, เม็กซิโก,TRUE
+Micronesia (Federated States of),FM,FSM,583, ไมโครนีเชีย,TRUE
+Moldova (Republic of),MD,MDA,498, มอลโดวา,TRUE
+Monaco,MC,MCO,492, โมนาโก,TRUE
+Mongolia,MN,MNG,496, มองโกเลีย,TRUE
+Montenegro,ME,MNE,499, มอนเตเนโกร,TRUE
+Montserrat,MS,MSR,500, มอนต์เซอร์รัต,FALSE
+Morocco,MA,MAR,504, โมร็อกโก,TRUE
+Mozambique,MZ,MOZ,508, โมซัมบิก,TRUE
+Myanmar,MM,MMR,104, พม่า,TRUE
+Namibia,NA,NAM,516, นามิเบีย,TRUE
+Nauru,NR,NRU,520, นาอูรู,TRUE
+Nepal,NP,NPL,524, เนปาล,TRUE
+Netherlands,NL,NLD,528, เนเธอร์แลนด์,TRUE
+New Caledonia,NC,NCL,540, นิวแคลิโดเนีย,FALSE
+New Zealand,NZ,NZL,554, นิวซีแลนด์,TRUE
+Nicaragua,NI,NIC,558, นิการากัว,TRUE
+Niger,NE,NER,562, ไนเจอร์,TRUE
+Nigeria,NG,NGA,566, ไนจีเรีย,TRUE
+Niue,NU,NIU,570, นีวเว,FALSE
+Norfolk Island,NF,NFK,574, เกาะนอร์ฟอล์ก,FALSE
+North Macedonia,MK,MKD,807, มาซิโดเนียเหนือ,TRUE
+Northern Mariana Islands,MP,MNP,580, หมู่เกาะนอร์เทิร์นมาเรียนา,FALSE
+Norway,NO,NOR,578, นอร์เวย์,TRUE
+Oman,OM,OMN,512, โอมาน,TRUE
+Pakistan,PK,PAK,586, ปากีสถาน,TRUE
+Palau,PW,PLW,585, ปาเลา,TRUE
+"Palestine, State of",PS,PSE,275, ปาเลสไตน์,FALSE
+Panama,PA,PAN,591, ปานามา,TRUE
+Papua New Guinea,PG,PNG,598, ปาปัวนิวกินี,TRUE
+Paraguay,PY,PRY,600, ปารากวัย,TRUE
+Peru,PE,PER,604, เปรู,TRUE
+Philippines,PH,PHL,608, ฟิลิปปินส์,TRUE
+Pitcairn,PN,PCN,612, หมู่เกาะพิตแคร์น,FALSE
+Poland,PL,POL,616, โปแลนด์,TRUE
+Portugal,PT,PRT,620, โปรตุเกส,TRUE
+Puerto Rico,PR,PRI,630, ปวยร์โตรีโก,FALSE
+Qatar,QA,QAT,634, กาตาร์,TRUE
+Réunion,RE,REU,638, เรอูว์นียง,FALSE
+Romania,RO,ROU,642, โรมาเนีย,TRUE
+Russian Federation,RU,RUS,643, รัสเซีย,TRUE
+Rwanda,RW,RWA,646, รวันดา,TRUE
+Saint Barthélemy,BL,BLM,652, แซ็ง–บาร์เตเลมี,FALSE
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654, เซนต์เฮเลนา,FALSE
+Saint Kitts and Nevis,KN,KNA,659, เซนต์คิตส์และเนวิส,TRUE
+Saint Lucia,LC,LCA,662, เซนต์ลูเชีย,TRUE
+Saint Martin (French part),MF,MAF,663, เซนต์มาร์ติน,FALSE
+Saint Pierre and Miquelon,PM,SPM,666, แซงปีแยร์และมีเกอลง,FALSE
+Saint Vincent and the Grenadines,VC,VCT,670, เซนต์วินเซนต์และเกรนาดีนส์,TRUE
+Samoa,WS,WSM,882, ซามัว,TRUE
+San Marino,SM,SMR,674, ซานมารีโน,TRUE
+Sao Tome and Principe,ST,STP,678, เซาตูแมอีปริงซีป,TRUE
+Saudi Arabia,SA,SAU,682, ซาอุดีอาระเบีย,TRUE
+Senegal,SN,SEN,686, เซเนกัล,TRUE
+Serbia,RS,SRB,688, เซอร์เบีย,TRUE
+Seychelles,SC,SYC,690, เซเชลส์,TRUE
+Sierra Leone,SL,SLE,694, เซียร์ราลีโอน,TRUE
+Singapore,SG,SGP,702, สิงคโปร์,TRUE
+Sint Maarten (Dutch part),SX,SXM,534, ซินต์มาร์เติน,FALSE
+Slovakia,SK,SVK,703, สโลวาเกีย,TRUE
+Slovenia,SI,SVN,705, สโลวีเนีย,TRUE
+Solomon Islands,SB,SLB,090, หมู่เกาะโซโลมอน,TRUE
+Somalia,SO,SOM,706, โซมาเลีย,TRUE
+South Africa,ZA,ZAF,710, แอฟริกาใต้,TRUE
+South Georgia and the South Sandwich Islands,GS,SGS,239, เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช,FALSE
+South Sudan,SS,SSD,728, ซูดานใต้,TRUE
+Spain,ES,ESP,724, สเปน,TRUE
+Sri Lanka,LK,LKA,144, ศรีลังกา,TRUE
+Sudan,SD,SDN,729, ซูดาน,TRUE
+Suriname,SR,SUR,740, ซูรินาม,TRUE
+Svalbard and Jan Mayen,SJ,SJM,744, ‎สฟาลบาร์และยานไมเอน,FALSE
+Sweden,SE,SWE,752, สวีเดน,TRUE
+Switzerland,CH,CHE,756, สวิตเซอร์แลนด์,TRUE
+Syrian Arab Republic,SY,SYR,760, ซีเรีย,TRUE
+"Taiwan, Province of China",TW,TWN,158, ไต้หวัน,FALSE
+Tajikistan,TJ,TJK,762, ทาจิกิสถาน,TRUE
+"Tanzania, United Republic of",TZ,TZA,834, แทนซาเนีย,TRUE
+Thailand,TH,THA,764, ไทย,TRUE
+Timor-Leste,TL,TLS,626, ติมอร์-เลสเต,TRUE
+Togo,TG,TGO,768, โตโก,TRUE
+Tokelau,TK,TKL,772, โตเกเลา,FALSE
+Tonga,TO,TON,776, ตองงา,TRUE
+Trinidad and Tobago,TT,TTO,780, ตรินิแดดและโตเบโก,TRUE
+Tunisia,TN,TUN,788, ตูนิเซีย,TRUE
+Turkey,TR,TUR,792, ตุรกี,TRUE
+Turkmenistan,TM,TKM,795, เติร์กเมนิสถาน,TRUE
+Turks and Caicos Islands,TC,TCA,796, หมู่เกาะเติกส์และเคคอส,FALSE
+Tuvalu,TV,TUV,798, ตูวาลู,TRUE
+Uganda,UG,UGA,800, ยูกันดา,TRUE
+Ukraine,UA,UKR,804, ยูเครน,TRUE
+United Arab Emirates,AE,ARE,784, สหรัฐอาหรับเอมิเรตส์,TRUE
+United Kingdom of Great Britain and Northern Ireland,GB,GBR,826, สหราชอาณาจักร,TRUE
+United States of America,US,USA,840, สหรัฐ,TRUE
+United States Minor Outlying Islands,UM,UMI,581, เกาะเล็กรอบนอกของสหรัฐอเมริกา,FALSE
+Uruguay,UY,URY,858, อุรุกวัย,TRUE
+Uzbekistan,UZ,UZB,860, อุซเบกิสถาน,TRUE
+Vanuatu,VU,VUT,548, วานูวาตู,TRUE
+Venezuela (Bolivarian Republic of),VE,VEN,862, เวเนซุเอลา,TRUE
+Viet Nam,VN,VNM,704, เวียดนาม,TRUE
+Virgin Islands (British),VG,VGB,092, หมู่เกาะบริติชเวอร์จิน,FALSE
+Virgin Islands (U.S.),VI,VIR,850, หมู่เกาะเวอร์จินของสหรัฐ,FALSE
+Wallis and Futuna,WF,WLF,876, วอลิสและฟูตูนา,FALSE
+Western Sahara,EH,ESH,732, เวสเทิร์นสะฮารา,FALSE
+Yemen,YE,YEM,887, เยเมน,TRUE
+Zambia,ZM,ZMB,894, แซมเบีย,TRUE
+Zimbabwe,ZW,ZWE,716, ซิมบับเว,TRUE
