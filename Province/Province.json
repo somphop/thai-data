@@ -1,0 +1,695 @@
+[
+  {
+    "English": "MaeHongSon",
+    "English2": "Mae Hong Son",
+    "Thai": "แม่ฮ่องสอน",
+    "EnglishCode": "MSN",
+    "ISO": "TH-58",
+    "FIPS": "TH01",
+    "ThaiCode": "มส"
+  },
+  {
+    "English": "ChiangMai",
+    "English2": "Chiang Mai",
+    "Thai": "เชียงใหม่",
+    "EnglishCode": "CMI",
+    "ISO": "TH-50",
+    "FIPS": "TH02",
+    "ThaiCode": "ชม"
+  },
+  {
+    "English": "ChiangRai",
+    "English2": "Chiang Rai",
+    "Thai": "เชียงราย",
+    "EnglishCode": "CRI",
+    "ISO": "TH-57",
+    "FIPS": "TH03",
+    "ThaiCode": "ชร"
+  },
+  {
+    "English": "Nan",
+    "English2": "Nan",
+    "Thai": "น่าน",
+    "EnglishCode": "NAN",
+    "ISO": "TH-55",
+    "FIPS": "TH04",
+    "ThaiCode": "นน"
+  },
+  {
+    "English": "Lamphun",
+    "English2": "Lamphun",
+    "Thai": "ลำพูน",
+    "EnglishCode": "LPN",
+    "ISO": "TH-51",
+    "FIPS": "TH05",
+    "ThaiCode": "ลพ"
+  },
+  {
+    "English": "Lampang",
+    "English2": "Lampang",
+    "Thai": "ลำปาง",
+    "EnglishCode": "LPG",
+    "ISO": "TH-52",
+    "FIPS": "TH06",
+    "ThaiCode": "ลป"
+  },
+  {
+    "English": "Phrae",
+    "English2": "Phrae",
+    "Thai": "แพร่",
+    "EnglishCode": "PRE",
+    "ISO": "TH-54",
+    "FIPS": "TH07",
+    "ThaiCode": "พร"
+  },
+  {
+    "English": "Tak",
+    "English2": "Tak",
+    "Thai": "ตาก",
+    "EnglishCode": "TAK",
+    "ISO": "TH-63",
+    "FIPS": "TH08",
+    "ThaiCode": "ตก"
+  },
+  {
+    "English": "Sukhothai",
+    "English2": "Sukhothai (Sukhothai Thani)",
+    "Thai": "สุโขทัย",
+    "EnglishCode": "STI",
+    "ISO": "TH-64",
+    "FIPS": "TH09",
+    "ThaiCode": "สข"
+  },
+  {
+    "English": "Uttaradit",
+    "English2": "Uttaradit",
+    "Thai": "อุตรดิตถ์",
+    "EnglishCode": "UTD",
+    "ISO": "TH-53",
+    "FIPS": "TH10",
+    "ThaiCode": "อต"
+  },
+  {
+    "English": "KamphaengPhet",
+    "English2": "Kamphaeng Phet",
+    "Thai": "กำแพงเพชร",
+    "EnglishCode": "KPT",
+    "ISO": "TH-62",
+    "FIPS": "TH11",
+    "ThaiCode": "กพ"
+  },
+  {
+    "English": "Phitsanulok",
+    "English2": "Phitsanulok",
+    "Thai": "พิษณุโลก",
+    "EnglishCode": "PLK",
+    "ISO": "TH-65",
+    "FIPS": "TH12",
+    "ThaiCode": "พล"
+  },
+  {
+    "English": "Phichit",
+    "English2": "Phichit",
+    "Thai": "พิจิตร",
+    "EnglishCode": "PCT",
+    "ISO": "TH-66",
+    "FIPS": "TH13",
+    "ThaiCode": "พจ"
+  },
+  {
+    "English": "Phetchabun",
+    "English2": "Phetchabun",
+    "Thai": "เพชรบูรณ์",
+    "EnglishCode": "PNB",
+    "ISO": "TH-67",
+    "FIPS": "TH14",
+    "ThaiCode": "พช"
+  },
+  {
+    "English": "UthaiThani",
+    "English2": "Uthai Thani",
+    "Thai": "อุทัยธานี",
+    "EnglishCode": "UTI",
+    "ISO": "TH-61",
+    "FIPS": "TH15",
+    "ThaiCode": "อน"
+  },
+  {
+    "English": "NakhonSawan",
+    "English2": "Nakhon Sawan",
+    "Thai": "นครสวรรค์",
+    "EnglishCode": "NSN",
+    "ISO": "TH-60",
+    "FIPS": "TH16",
+    "ThaiCode": "นว"
+  },
+  {
+    "English": "NongKhai",
+    "English2": "Nong Khai",
+    "Thai": "หนองคาย",
+    "EnglishCode": "NKI",
+    "ISO": "TH-43",
+    "FIPS": "TH17",
+    "ThaiCode": "นค"
+  },
+  {
+    "English": "Loei",
+    "English2": "Loei",
+    "Thai": "เลย",
+    "EnglishCode": "LEI",
+    "ISO": "TH-42",
+    "FIPS": "TH18",
+    "ThaiCode": "ลย"
+  },
+  {
+    "English": "SakonNakhon",
+    "English2": "Sakon Nakhon",
+    "Thai": "สกลนคร",
+    "EnglishCode": "SNK",
+    "ISO": "TH-47",
+    "FIPS": "TH20",
+    "ThaiCode": "สน"
+  },
+  {
+    "English": "KhonKaen",
+    "English2": "Khon Kaen",
+    "Thai": "ขอนแก่น",
+    "EnglishCode": "KKN",
+    "ISO": "TH-40",
+    "FIPS": "TH22",
+    "ThaiCode": "ขก"
+  },
+  {
+    "English": "Kalasin",
+    "English2": "Kalasin",
+    "Thai": "กาฬสินธุ์",
+    "EnglishCode": "KSN",
+    "ISO": "TH-46",
+    "FIPS": "TH23",
+    "ThaiCode": "กส"
+  },
+  {
+    "English": "MahaSarakham",
+    "English2": "Maha Sarakham",
+    "Thai": "มหาสารคาม",
+    "EnglishCode": "MKM",
+    "ISO": "TH-44",
+    "FIPS": "TH24",
+    "ThaiCode": "มค"
+  },
+  {
+    "English": "RoiEt",
+    "English2": "Roi Et",
+    "Thai": "ร้อยเอ็ด",
+    "EnglishCode": "RET",
+    "ISO": "TH-45",
+    "FIPS": "TH25",
+    "ThaiCode": "รอ"
+  },
+  {
+    "English": "Chaiyaphum",
+    "English2": "Chaiyaphum",
+    "Thai": "ชัยภูมิ",
+    "EnglishCode": "CPM",
+    "ISO": "TH-36",
+    "FIPS": "TH26",
+    "ThaiCode": "ชย"
+  },
+  {
+    "English": "NakhonRatchasima",
+    "English2": "Nakhon Ratchasima",
+    "Thai": "นครราชสีมา",
+    "EnglishCode": "NMA",
+    "ISO": "TH-30",
+    "FIPS": "TH27",
+    "ThaiCode": "นม"
+  },
+  {
+    "English": "Buriram",
+    "English2": "Buriram",
+    "Thai": "บุรีรัมย์",
+    "EnglishCode": "BRM",
+    "ISO": "TH-31",
+    "FIPS": "TH28",
+    "ThaiCode": "บร"
+  },
+  {
+    "English": "Surin",
+    "English2": "Surin",
+    "Thai": "สุรินทร์",
+    "EnglishCode": "SRN",
+    "ISO": "TH-32",
+    "FIPS": "TH29",
+    "ThaiCode": "สร"
+  },
+  {
+    "English": "Sisaket",
+    "English2": "Sisaket",
+    "Thai": "ศรีสะเกษ",
+    "EnglishCode": "SSK",
+    "ISO": "TH-33",
+    "FIPS": "TH30",
+    "ThaiCode": "ศก"
+  },
+  {
+    "English": "Narathiwat",
+    "English2": "Narathiwat",
+    "Thai": "นราธิวาส",
+    "EnglishCode": "NWT",
+    "ISO": "TH-96",
+    "FIPS": "TH31",
+    "ThaiCode": "นธ"
+  },
+  {
+    "English": "ChaiNat",
+    "English2": "Chai Nat",
+    "Thai": "ชัยนาท",
+    "EnglishCode": "CNT",
+    "ISO": "TH-18",
+    "FIPS": "TH32",
+    "ThaiCode": "ชน"
+  },
+  {
+    "English": "SingBuri",
+    "English2": "Sing Buri",
+    "Thai": "สิงห์บุรี",
+    "EnglishCode": "SBR",
+    "ISO": "TH-17",
+    "FIPS": "TH33",
+    "ThaiCode": "สห"
+  },
+  {
+    "English": "Lopburi",
+    "English2": "Lopburi",
+    "Thai": "ลพบุรี",
+    "EnglishCode": "LRI",
+    "ISO": "TH-16",
+    "FIPS": "TH34",
+    "ThaiCode": "ลบ"
+  },
+  {
+    "English": "AngThong",
+    "English2": "Ang Thong",
+    "Thai": "อ่างทอง",
+    "EnglishCode": "ATG",
+    "ISO": "TH-15",
+    "FIPS": "TH35",
+    "ThaiCode": "อท"
+  },
+  {
+    "English": "PhraNakhonSiAyutthaya",
+    "English2": "Phra Nakhon Si Ayutthaya",
+    "Thai": "พระนครศรีอยุธยา",
+    "EnglishCode": "AYA",
+    "ISO": "TH-14",
+    "FIPS": "TH36",
+    "ThaiCode": "อย"
+  },
+  {
+    "English": "Saraburi",
+    "English2": "Saraburi",
+    "Thai": "สระบุรี",
+    "EnglishCode": "SRI",
+    "ISO": "TH-19",
+    "FIPS": "TH37",
+    "ThaiCode": "สบ"
+  },
+  {
+    "English": "Nonthaburi",
+    "English2": "Nonthaburi",
+    "Thai": "นนทบุรี",
+    "EnglishCode": "NBI",
+    "ISO": "TH-12",
+    "FIPS": "TH38",
+    "ThaiCode": "นบ"
+  },
+  {
+    "English": "PathumThani",
+    "English2": "Pathum Thani",
+    "Thai": "ปทุมธานี",
+    "EnglishCode": "PTE",
+    "ISO": "TH-13",
+    "FIPS": "TH39",
+    "ThaiCode": "ปท"
+  },
+  {
+    "English": "Bangkok",
+    "English2": "Bangkok",
+    "Thai": "กรุงเทพมหานคร",
+    "EnglishCode": "BKK",
+    "ISO": "TH-10",
+    "FIPS": "TH40",
+    "ThaiCode": "กท"
+  },
+  {
+    "English": "Phayao",
+    "English2": "Phayao",
+    "Thai": "พะเยา",
+    "EnglishCode": "PYO",
+    "ISO": "TH-56",
+    "FIPS": "TH41",
+    "ThaiCode": "พย"
+  },
+  {
+    "English": "SamutPrakan",
+    "English2": "Samut Prakan",
+    "Thai": "สมุทรปราการ",
+    "EnglishCode": "SPK",
+    "ISO": "TH-11",
+    "FIPS": "TH42",
+    "ThaiCode": "สป"
+  },
+  {
+    "English": "NakhonNayok",
+    "English2": "Nakhon Nayok",
+    "Thai": "นครนายก",
+    "EnglishCode": "NYK",
+    "ISO": "TH-26",
+    "FIPS": "TH43",
+    "ThaiCode": "นย"
+  },
+  {
+    "English": "Chachoengsao",
+    "English2": "Chachoengsao",
+    "Thai": "ฉะเชิงเทรา",
+    "EnglishCode": "CCO",
+    "ISO": "TH-24",
+    "FIPS": "TH44",
+    "ThaiCode": "ฉช"
+  },
+  {
+    "English": "Chonburi",
+    "English2": "Chonburi",
+    "Thai": "ชลบุรี",
+    "EnglishCode": "CBI",
+    "ISO": "TH-20",
+    "FIPS": "TH46",
+    "ThaiCode": "ชบ"
+  },
+  {
+    "English": "Rayong",
+    "English2": "Rayong",
+    "Thai": "ระยอง",
+    "EnglishCode": "RYG",
+    "ISO": "TH-21",
+    "FIPS": "TH47",
+    "ThaiCode": "รย"
+  },
+  {
+    "English": "Chanthaburi",
+    "English2": "Chanthaburi",
+    "Thai": "จันทบุรี",
+    "EnglishCode": "CTI",
+    "ISO": "TH-22",
+    "FIPS": "TH48",
+    "ThaiCode": "จบ"
+  },
+  {
+    "English": "Trat",
+    "English2": "Trat",
+    "Thai": "ตราด",
+    "EnglishCode": "TRT",
+    "ISO": "TH-23",
+    "FIPS": "TH49",
+    "ThaiCode": "ตร"
+  },
+  {
+    "English": "Kanchanaburi",
+    "English2": "Kanchanaburi",
+    "Thai": "กาญจนบุรี",
+    "EnglishCode": "KRI",
+    "ISO": "TH-71",
+    "FIPS": "TH50",
+    "ThaiCode": "กจ"
+  },
+  {
+    "English": "SuphanBuri",
+    "English2": "Suphan Buri",
+    "Thai": "สุพรรณบุรี",
+    "EnglishCode": "SPB",
+    "ISO": "TH-72",
+    "FIPS": "TH51",
+    "ThaiCode": "สพ"
+  },
+  {
+    "English": "Ratchaburi",
+    "English2": "Ratchaburi",
+    "Thai": "ราชบุรี",
+    "EnglishCode": "RBR",
+    "ISO": "TH-70",
+    "FIPS": "TH52",
+    "ThaiCode": "รบ"
+  },
+  {
+    "English": "NakhonPathom",
+    "English2": "Nakhon Pathom",
+    "Thai": "นครปฐม",
+    "EnglishCode": "NPT",
+    "ISO": "TH-73",
+    "FIPS": "TH53",
+    "ThaiCode": "นฐ"
+  },
+  {
+    "English": "SamutSongkhram",
+    "English2": "Samut Songkhram",
+    "Thai": "สมุทรสงคราม",
+    "EnglishCode": "SKM",
+    "ISO": "TH-75",
+    "FIPS": "TH54",
+    "ThaiCode": "สส"
+  },
+  {
+    "English": "SamutSakhon",
+    "English2": "Samut Sakhon",
+    "Thai": "สมุทรสาคร",
+    "EnglishCode": "SKN",
+    "ISO": "TH-74",
+    "FIPS": "TH55",
+    "ThaiCode": "สค"
+  },
+  {
+    "English": "Phetchaburi",
+    "English2": "Phetchaburi",
+    "Thai": "เพชรบุรี",
+    "EnglishCode": "PBI",
+    "ISO": "TH-76",
+    "FIPS": "TH56",
+    "ThaiCode": "พบ"
+  },
+  {
+    "English": "PrachuapKhiriKhan",
+    "English2": "Prachuap Khiri Khan",
+    "Thai": "ประจวบคีรีขันธ์",
+    "EnglishCode": "PKN",
+    "ISO": "TH-77",
+    "FIPS": "TH57",
+    "ThaiCode": "ปข"
+  },
+  {
+    "English": "Chumphon",
+    "English2": "Chumphon",
+    "Thai": "ชุมพร",
+    "EnglishCode": "CPN",
+    "ISO": "TH-86",
+    "FIPS": "TH58",
+    "ThaiCode": "ชพ"
+  },
+  {
+    "English": "Ranong",
+    "English2": "Ranong",
+    "Thai": "ระนอง",
+    "EnglishCode": "RNG",
+    "ISO": "TH-85",
+    "FIPS": "TH59",
+    "ThaiCode": "รน"
+  },
+  {
+    "English": "SuratThani",
+    "English2": "Surat Thani",
+    "Thai": "สุราษฎร์ธานี",
+    "EnglishCode": "SNI",
+    "ISO": "TH-84",
+    "FIPS": "TH60",
+    "ThaiCode": "สฎ"
+  },
+  {
+    "English": "PhangNga",
+    "English2": "Phang Nga",
+    "Thai": "พังงา",
+    "EnglishCode": "PNA",
+    "ISO": "TH-82",
+    "FIPS": "TH61",
+    "ThaiCode": "พง"
+  },
+  {
+    "English": "Phuket",
+    "English2": "Phuket",
+    "Thai": "ภูเก็ต",
+    "EnglishCode": "PKT",
+    "ISO": "TH-83",
+    "FIPS": "TH62",
+    "ThaiCode": "ภก"
+  },
+  {
+    "English": "Krabi",
+    "English2": "Krabi",
+    "Thai": "กระบี่",
+    "EnglishCode": "KBI",
+    "ISO": "TH-81",
+    "FIPS": "TH63",
+    "ThaiCode": "กบ"
+  },
+  {
+    "English": "NakhonSiThammarat",
+    "English2": "Nakhon Si Thammarat",
+    "Thai": "นครศรีธรรมราช",
+    "EnglishCode": "NRT",
+    "ISO": "TH-80",
+    "FIPS": "TH64",
+    "ThaiCode": "นศ"
+  },
+  {
+    "English": "Trang",
+    "English2": "Trang",
+    "Thai": "ตรัง",
+    "EnglishCode": "TRG",
+    "ISO": "TH-92",
+    "FIPS": "TH65",
+    "ThaiCode": "ตง"
+  },
+  {
+    "English": "Phatthalung",
+    "English2": "Phatthalung",
+    "Thai": "พัทลุง",
+    "EnglishCode": "PLG",
+    "ISO": "TH-93",
+    "FIPS": "TH66",
+    "ThaiCode": "พท"
+  },
+  {
+    "English": "Satun",
+    "English2": "Satun",
+    "Thai": "สตูล",
+    "EnglishCode": "STN",
+    "ISO": "TH-91",
+    "FIPS": "TH67",
+    "ThaiCode": "สต"
+  },
+  {
+    "English": "Songkhla",
+    "English2": "Songkhla",
+    "Thai": "สงขลา",
+    "EnglishCode": "SKA",
+    "ISO": "TH-90",
+    "FIPS": "TH68",
+    "ThaiCode": "สท"
+  },
+  {
+    "English": "Pattani",
+    "English2": "Pattani",
+    "Thai": "ปัตตานี",
+    "EnglishCode": "PTN",
+    "ISO": "TH-94",
+    "FIPS": "TH69",
+    "ThaiCode": "ปน"
+  },
+  {
+    "English": "Yala",
+    "English2": "Yala",
+    "Thai": "ยะลา",
+    "EnglishCode": "YLA",
+    "ISO": "TH-95",
+    "FIPS": "TH70",
+    "ThaiCode": "ยล"
+  },
+  {
+    "English": "Yasothon",
+    "English2": "Yasothon",
+    "Thai": "ยโสธร",
+    "EnglishCode": "YST",
+    "ISO": "TH-35",
+    "FIPS": "TH72",
+    "ThaiCode": "ยส"
+  },
+  {
+    "English": "NakhonPhanom",
+    "English2": "Nakhon Phanom",
+    "Thai": "นครพนม",
+    "EnglishCode": "NPM",
+    "ISO": "TH-48",
+    "FIPS": "TH73",
+    "ThaiCode": "นพ"
+  },
+  {
+    "English": "Prachinburi",
+    "English2": "Prachinburi",
+    "Thai": "ปราจีนบุรี",
+    "EnglishCode": "PRI",
+    "ISO": "TH-25",
+    "FIPS": "TH74",
+    "ThaiCode": "ปจ"
+  },
+  {
+    "English": "UbonRatchathani",
+    "English2": "Ubon Ratchathani",
+    "Thai": "อุบลราชธานี",
+    "EnglishCode": "UBN",
+    "ISO": "TH-34",
+    "FIPS": "TH75",
+    "ThaiCode": "อบ"
+  },
+  {
+    "English": "UdonThani",
+    "English2": "Udon Thani",
+    "Thai": "อุดรธานี",
+    "EnglishCode": "UDN",
+    "ISO": "TH-41",
+    "FIPS": "TH76",
+    "ThaiCode": "อด"
+  },
+  {
+    "English": "AmnatCharoen",
+    "English2": "Amnat Charoen",
+    "Thai": "อำนาจเจริญ",
+    "EnglishCode": "ACR",
+    "ISO": "TH-37",
+    "FIPS": "TH77",
+    "ThaiCode": "อจ"
+  },
+  {
+    "English": "Mukdahan",
+    "English2": "Mukdahan",
+    "Thai": "มุกดาหาร",
+    "EnglishCode": "MDH",
+    "ISO": "TH-49",
+    "FIPS": "TH78",
+    "ThaiCode": "มห"
+  },
+  {
+    "English": "NongBuaLamphu",
+    "English2": "Nong Bua Lam Phu",
+    "Thai": "หนองบัวลำภู",
+    "EnglishCode": "NBP",
+    "ISO": "TH-39",
+    "FIPS": "TH79",
+    "ThaiCode": "นภ"
+  },
+  {
+    "English": "SaKaeo",
+    "English2": "Sa Kaeo",
+    "Thai": "สระแก้ว",
+    "EnglishCode": "SKW",
+    "ISO": "TH-27",
+    "FIPS": "TH80",
+    "ThaiCode": "สก"
+  },
+  {
+    "English": "BuengKan",
+    "English2": "Bueng Kan",
+    "Thai": "บึงกาฬ",
+    "EnglishCode": "BKN",
+    "ISO": "TH-38",
+    "FIPS": "TH81",
+    "ThaiCode": "บก"
+  }
+]
